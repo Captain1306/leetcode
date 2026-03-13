@@ -22,6 +22,7 @@
 | [0031-next-permutation](https://github.com/Captain1306/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Captain1306/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Captain1306/leetcode/tree/master/0088-merge-sorted-array) |
+| [0567-permutation-in-string](https://github.com/Captain1306/leetcode/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 ## String
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/Captain1306/leetcode/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Captain1306/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
@@ -39,4 +41,12 @@
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Captain1306/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Hash Table
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Captain1306/leetcode/tree/master/0567-permutation-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Captain1306/leetcode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
